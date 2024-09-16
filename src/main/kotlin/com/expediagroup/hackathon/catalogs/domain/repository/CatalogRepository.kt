@@ -14,7 +14,15 @@ class CatalogRepository {
 
     companion object {
         const val BABY_QUIP = "baby-quip"
-        val catalogEntries: Map<String, String> = mapOf(BABY_QUIP to "/catalogs/baby-quip.json")
+        const val YAMATO = "yamato"
+        val catalogEntries: Map<String, String> = mapOf(
+            BABY_QUIP to "/catalogs/baby-quip.json",
+            YAMATO to "/catalogs/yamato.json"
+        )
+    }
+
+    fun getCatalogs(): List<Catalog> {
+        return catalogs.values.toList()
     }
 
     fun getCatalog(catalog: String): Catalog {

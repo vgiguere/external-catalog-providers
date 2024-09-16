@@ -1,0 +1,66 @@
+{
+  "id": "yamato",
+  "name": "Make your holiday to Japan even more enjoyable with Hands-Free travel",
+  "logo": "https://www.global-yamato.com/assets/img/img/img_site-logo-en_01.png",
+  "categories": [
+    {
+      "id": "hands-free",
+      "name": "Hands Free Travel",
+      "imageUrl": "https://www.global-yamato.com/en/hands-free-travel/img/img_hands-free_02.png",
+      "products": [
+        {
+          "id": "p101",
+          "name": "Luggage Delivery from the Airport",
+          "description": "Send your luggage to the hotel from the airport",
+          "url": "https://www.global-yamato.com/en/hands-free-travel/img/img_scene01_illust_01.png",
+          "price": 1260.00,
+          "detailedInfo": {
+            "longDescription": "Free your hands, save time and travel in comfort by sending your luggage from the airport to your hotel and vice versa with Yamato.",
+            "images": [
+              "https://www.global-yamato.com/en/hands-free-travel/img/img_scene01_illust_01.png"
+            ]
+          }
+        },
+        {
+          "id": "p102",
+          "name": "Luggage Delivery Between Hotels",
+          "description": "Travel to your next destination hassle-free",
+          "url": "https://www.global-yamato.com/en/hands-free-travel/img/img_scene01_illust_02.png",
+          "price": 1060.00,
+          "detailedInfo": {
+            "longDescription": "Enjoy traveling to your next destination, even when using crowded public transport, by sending your luggage to your next hotel with Yamato.",
+            "images": [
+              "https://www.global-yamato.com/en/hands-free-travel/img/img_scene01_illust_02.png"
+            ]
+          }
+        },
+        {
+          "id": "p103",
+          "name": "Luggage Storage and Tourist Information Services",
+          "description": "Enjoy your holiday even more with your hands free",
+          "url": "https://www.global-yamato.com/en/hands-free-travel/img/img_scene01_illust_03.png",
+          "price": 850.00,
+          "detailedInfo": {
+            "longDescription": "Yamato has service counters at train stations and commercial areas where you can temporarily store your luggage and receive tourist information.",
+            "images": [
+              "https://www.global-yamato.com/en/hands-free-travel/img/img_scene01_illust_03.png"
+            ]
+          }
+        },
+        {
+          "id": "p101",
+          "name": "Leisure Goods Delivery",
+          "description": "Travel to ski resorts and golf courses hands free",
+          "url": "https://www.global-yamato.com/en/hands-free-travel/img/img_scene01_illust_04.png",
+          "price": 2350.00,
+          "detailedInfo": {
+            "longDescription": "Leisure Goods Delivery\n\nTravel to ski resorts and golf courses hands free\nSend your heavy ski equipments and golf bags to designated ski resorts and golf courses with Yamato while traveling with your hands free.",
+            "images": [
+              "https://www.global-yamato.com/en/hands-free-travel/img/img_scene01_illust_04.png"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

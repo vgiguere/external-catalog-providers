@@ -1,6 +1,7 @@
 {
   "id": "baby-quip",
   "name": "Baby Quip Product Catalog",
+  "logo": "https://d28w2s5u3j4b6n.cloudfront.net/baby_quip_modern/img/logo.png",
   "categories": [
     {
       "id": "cribs",
