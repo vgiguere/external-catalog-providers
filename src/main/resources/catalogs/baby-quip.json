@@ -1,0 +1,174 @@
+{
+  "id": "baby-quip",
+  "name": "Baby Quip Product Catalog",
+  "categories": [
+    {
+      "id": "cribs",
+      "name": "Cribs & Sleep",
+      "imageUrl": "https://d28w2s5u3j4b6n.cloudfront.net/baby_quip_modern/img/img-ld-rent1.jpg",
+      "products": [
+        {
+          "id": "p101",
+          "name": "Graco Pack and Play Portable Playard",
+          "description": "A portable playard that's perfect for travel.",
+          "url": "https://www.babyquip.com/p/22024/items/graco-pack-and-play-portable-playard",
+          "price": 12.75,
+          "detailedInfo": {
+            "longDescription": "When your little one needs a place to nap or play right away, there's no more convenient solution than the Pack 'n Play Playard.\n\n\n\nIts durable frame makes it perfectly suited for travel. The signature Graco push-button fold allows you to break it down in seconds, and the automatically folding feet and wheels make it amazingly compact when folded. At home or away, your young one will have sweet dreams and comfy surroundings. No bleach. Clean with household soap and warm water/drip dry.\n\n",
+            "images": [
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220241685791675732759M0.jpg",
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220241685791675732759M1.jpg",
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220241685791675732760M2.jpg",
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220241685791675732760M3.jpg"
+            ]
+          }
+        },
+        {
+          "id": "p102",
+          "name": "Evenflo Loft Portable Bassinet",
+          "description": "A portable bassinet that's perfect for travel.",
+          "url": "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/sm/victoriavanstiphout2202416858016909831470.jpg",
+          "price": 13.75,
+          "detailedInfo": {
+            "longDescription": "The Loft Portable Bassinet includes features like a simple, sleek folding design and easy-to-clean sheets with the modern technology of a Bluetooth speaker that plays your child’s favorite goodnight music or nature sounds. A built-in nightlight and room temperature monitor help you create the best atmosphere to lull your child to sleep.",
+            "images": [
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout2202416858016909831470.jpg",
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout2202416858016909831471.jpg",
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout2202416858016909831472.jpg"
+            ]
+          }
+        },
+        {
+          "id": "p103",
+          "name": "Munchkin Brica Fold N' Go Travel Bassinet",
+          "description": "A portable bassinet that's perfect for travel.",
+          "url": "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/sm/victoriavanstiphout220242172761695348018M2.jpg",
+          "price": 4.66,
+          "detailedInfo": {
+            "longDescription": "The Loft Portable Bassinet includes features like a simple, sleek folding design and easy-to-clean sheets with the modern technology of a Bluetooth speaker that plays your child’s favorite goodnight music or nature sounds. A built-in nightlight and room temperature monitor help you create the best atmosphere to lull your child to sleep.",
+            "images": [
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242172761695348018M2.jpg",
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242172761695348018M3.jpg",
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242172761695348019M4.jpg",
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242172761695348019M5.jpg",
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242172761695348017M1.jpg"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "carseats",
+      "name": "Car Seats",
+      "imageUrl": "https://d28w2s5u3j4b6n.cloudfront.net/baby_quip_modern/img/img-ld-rent3.jpg",
+      "products": [
+        {
+          "id": "p201",
+          "name": "Evenflo Gold Securemax Moonstone",
+          "description": "A top-of-the-line car seat with the latest features.",
+          "url": "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/sm/victoriavanstiphout220242172531695340787M1.jpg",
+          "price": 19.22,
+          "detailedInfo": {
+            "longDescription": "Link to Instructional Manual: https://evenflo-cms-assets.s3.amazonaws.com/manuals/us_gold-securemax-car-seat/en/us_gold-securemax-car-seat_EN.pdf",
+            "images": [
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242172531695340787M1.jpg",
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242172531695340788M3.jpg",
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242172531695340788M4.jpg",
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242172531695340789M5.jpg",
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242172531695340789M7.jpg"
+            ]
+          }
+        },
+        {
+          "id": "p202",
+          "name": "Evenflo Gold Revolve360 Swivel Car Seat",
+          "description": "A top-of-the-line car seat with the latest features and a 360-degree swivel.",
+          "url": "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/sm/victoriavanstiphout220242317051703010089M0.jpg",
+          "price": 23.81,
+          "detailedInfo": {
+            "longDescription": "Link to Instructional Manual: https://evenflo-cms-assets.s3.amazonaws.com/manuals/us-gold-revolve360-convertible-car-seat/en/us-gold-revolve360-convertible-car-seat_EN.pdf",
+            "images": [
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242317051703010089M0.jpg",
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242317051703010090M1.jpg",
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242317051703010090M2.jpg",
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242317051703010092M6.jpg"
+            ]
+          }
+        },
+        {
+          "id": "p203",
+          "name": "Evenflo EveryStage DLX All-In-One Convertible Car Seat",
+          "description": "A top-of-the-line car seat with the latest features and a all-in-one design.",
+          "url": "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/sm/victoriavanstiphout220242082491690989699M0.jpg",
+          "price": 21.76,
+          "detailedInfo": {
+            "longDescription": "Link to Instructional Manual: https://www.evenflo.com/products/all4one-convertible-car-seat",
+            "images": [
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242082491690989699M0.jpg",
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242082491690989700M1.jpg",
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242082491690989700M2.jpg",
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242082491690989703M6.jpg"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "strollers",
+      "name": "Strollers & Wagons",
+      "imageUrl": "https://d28w2s5u3j4b6n.cloudfront.net/baby_quip_modern/img/img-ld-rent2.jpg",
+      "products": [
+        {
+          "id": "p301",
+          "name": "Baby Trend Sit and Stand Double Stroller",
+          "description": "A double stroller that's perfect for two kids.",
+          "url": "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/sm/victoriavanstiphout220242172711695346907M3.jpg",
+          "price": 18.76,
+          "detailedInfo": {
+            "longDescription": "Accommodates two toddlers sitting on the full size seats, or one toddler sitting on the front full size seat and one sitting on the rear bench seat or standing on the platform when rear seat is removed\n\nAlso allows one newborn in an infant car seat and one sitting or standing toddler. The Sit N Stand® Double also accepts infant car seats from most other major brands (sold separately).\n\n",
+            "images": [
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242172711695346907M3.jpg",
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242172711695346907M2.jpg",
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242172711695346907M4.jpg",
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242172711695346908M6.jpg",
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242172711695346906M1.jpg"
+            ]
+          }
+        },
+        {
+          "id": "p302",
+          "name": "Pivot Xpand, Modular Baby Stroller",
+          "description": "A Most Versatile Stroller with 22 Configurations",
+          "url": "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/sm/victoriavanstiphout220242082511690989968M0.jpg",
+          "price": 15.87,
+          "detailedInfo": {
+            "longDescription": "The Pivot Xpand effortlessly transitions from a single to double stroller without extra parts or tools - simply slide up and flip out integrated seat mounts to add a second seat!\n\nThe Pivot Xpand is a complete baby travel system. The compact folding stroller conveniently self-stands with the toddler seat attached, while the extra-large storage basket expands to over 2 feet with front and back access. This versatile stroller has 4 modes of use and can grow with baby.",
+            "images": [
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242082511690989968M0.jpg",
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242082511690989968M1.jpg",
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242082511690989969M4.jpg",
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242082511690989971M6.jpg"
+            ]
+          }
+        },
+        {
+          "id": "p303",
+          "name": "Baby Trend Expedition 2-in-1 Stroller Wagon",
+          "description": "A stroller wagon that's perfect for older kids.",
+          "url": "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/sm/victoriavanstiphout220242172701695346553M0.jpg",
+          "price": 18.88,
+          "detailedInfo": {
+            "longDescription": "Baby Trend Expedition 2-in-1 Stroller Wagon.\n\n\n\nThe super large cargo space with built-in seating and the two 3-point safety harness belt allows kids to explore with safety. Plus, the extra-large ratcheting canopy with UPF 50+ protection and air-flow mosquito netting keeps your little ones away from the harmful sun-rays and rain.\n\n\n\nWith the Hideaway Pull Handle, parents can easily transform the \"Push\" stroller into a \"Pull\" wagon mode. The compact flat fold allows the wagon to be easily stored and transported. Includes Universal Infant Car Seat Adapter.",
+            "images": [
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242172701695346553M0.jpg",
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242172701695346553M1.jpg",
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242172701695346554M2.jpg",
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242172701695346555M5.jpg",
+              "https://d28w2s5u3j4b6n.cloudfront.net/img/items/22024/lg/victoriavanstiphout220242172701695346555M6.jpg"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
